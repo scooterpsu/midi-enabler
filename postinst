@@ -1,0 +1,2 @@
+#!/bin/sh
+sync; mount -o remount,ro /; echo -e 'Installation finished.'; exit 0
